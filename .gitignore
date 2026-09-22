@@ -1,0 +1,6 @@
+# Ignore Python cache directories and compiled files
+__pycache__/
+*.py[cod]
+
+sessions.json
+time_tracker_data.json
